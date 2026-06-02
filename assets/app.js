@@ -735,7 +735,7 @@ function V1Nav() {
       flexShrink: 0
     }
   }, React.createElement("img", {
-    src: "assets/logos/logo-square-blue.svg",
+    src: "assets/logos/Incredible platform-03.svg",
     style: {
       height: 30
     },
@@ -3336,7 +3336,7 @@ function V1Footer() {
       marginBottom: 16
     }
   }, React.createElement("img", {
-    src: "assets/logos/logo-square-blue.svg",
+    src: "assets/logos/Incredible platform-01.svg",
     style: {
       height: 32
     },
